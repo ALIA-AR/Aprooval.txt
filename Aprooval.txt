@@ -1,1 +1,1 @@
-git clone https://github.com/AR-BRAND/Aprooval.txt
+1|0|0|1|6|u|0|_|a|1|6
