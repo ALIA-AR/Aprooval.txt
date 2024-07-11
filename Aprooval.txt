@@ -13,4 +13,3 @@ Father name: s
 City name: s
 Whatsapp number: 
 Mobile name: 
-SIM company name: e | Expires: 2024-07-11
