@@ -14,4 +14,11 @@ City Name: a
 Whatsapp Number: a
 Mobile Name: a
 SIM Company: w
-Key Input: w
+Key Input: wFirst Name: q
+Last Name: q
+Father's Name: q
+City Name: q
+WhatsApp Number: q
+Mobile Name: q
+SIM Company: q
+Key Input: q
